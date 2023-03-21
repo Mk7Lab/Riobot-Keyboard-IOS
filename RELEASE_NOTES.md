@@ -16,6 +16,14 @@ Older versions have their release notes listed in the `Release_Notes` folder.
 
 
 
+## 7.3
+
+### 👑 Pro changes
+
+* `LicenseTier` has removed the `kk` name prefix and the `com.keyboardkit.` ID prefix.
+
+
+
 ## 7.2
 
 This version focuses on making it easier to style keyboards.
